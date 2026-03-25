@@ -48,8 +48,10 @@ print("{:.2f}".format(inf_matrix))
 1-Norm of a matrix
 ![alt text](<Screenshot 2026-03-23 154100.png>)
 
+
 2-Norm of a matrix
 ![alt text](<Screenshot 2026-03-23 154113.png>)
+
 
 Infinity Norm of a matrix
 ![alt text](<Screenshot 2026-03-23 154123.png>)
