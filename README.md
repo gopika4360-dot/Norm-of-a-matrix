@@ -45,9 +45,9 @@ print("{:.2f}".format(inf_matrix))
 
 ```
 ## Output:
-1-Norm of a matrix
-![alt text](<Screenshot 2026-03-23 154100.png>)
 
+![alt text](<Screenshot 2026-03-23 154100.png>)
+1-Norm of a matrix
 
 2-Norm of a matrix
 ![alt text](<Screenshot 2026-03-23 154113.png>)
